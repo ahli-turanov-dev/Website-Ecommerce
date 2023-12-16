@@ -1,18 +1,18 @@
 # FrestyEcommerce
-## Struktur:
-#### E-Commerce Funktionen:
-##### Suche, Paginierung, besondere Produkte, Warenkorb (lokal & Datenbank), Bestellungen...
+## Structure:
+#### E-Commerce Features:
+##### Search, pagination, special products, shopping cart (local & database), orders...
 ---------------------------------------------------------------------------------------------
-#### Verwaltungsfunktionen CRUD:
-##### Erstellen, Lesen, Aktualisieren und Löschen von Produkten
+#### Administration functions CRUD:
+##### Creating, reading, updating and deleting products
 ---------------------------------------------------------------------------------------------
 #### Best Practices:
-##### Generics, Data-Transfer-Objects (DTOs), Repository Pattern...
+##### Generics, Data Transfer Objects (DTOs), Repository Pattern...
 ---------------------------------------------------------------------------------------------
-#### Anwendung von Entity Framework Core & SQL Server
-#### Authentifizierung mit JSON Web Token (JWT)
-#### Rollenbasierte Autorisierung für Administratoren und Kunden
-#### Bezahlung mit Stripe Checkout mit Kreditkarte, Apple Pay und Google Pay
+#### Application of Entity Framework Core & SQL Server
+#### Authentication with JSON Web Token (JWT)
+#### Role-based authorization for administrators and customers
+#### Payment with Stripe Checkout with credit card, Apple Pay and Google Pay
 ---------------------------------------------------------------------------------------------
 # Screenshots:
 ![Screen register](https://github.com/8ESTIE/FrestyEcommerce/blob/master/Screenshots/Screen-Register.jpg?raw=true)
