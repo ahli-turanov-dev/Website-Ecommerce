@@ -1,5 +1,5 @@
 # FrestyEcommerce
-Website with E-Commerce with more than fully-fledged 15 features and 19 well-designed pages
+Website with E-Commerce with more than 15 fully-fledged features and 19 well-designed pages...
 ## Structure:
 #### E-Commerce Features:
 ##### Search, pagination, special products, shopping cart (local & database), orders...
